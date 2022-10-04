@@ -2,6 +2,12 @@ body{
     background-color: black;
 }
 
+.navbar-nav a{
+    margin: 1rem;
+    margin-left: 5rem;
+    font-size: 20px;
+}
+
 .titulo{
     display: block;
     font-family: monospace;
